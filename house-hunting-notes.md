@@ -9,6 +9,12 @@
 ### 1. Henderson Road - 95c (Super High Level)
 **Status:** Ethnic quota issue
 
+**Property Details:**
+- **Price:** S$ 1,290,000 (Negotiable)
+- **Size:** 1,001 sqft | **PSF:** S$ 1,289
+- **TOP:** 2018 | **Beds:** 3 | **Baths:** 2
+- **MRT:** 680 m (8 mins) from EW18 Redhill MRT
+
 **Area Notes:**
 - Low density area, no feeling of crowd
 
@@ -17,6 +23,12 @@
 ### 2. Henderson Road - Second 95 Unit (Level 10)
 **Status:** NO-GO
 **Viewed:** February 1, 2026
+
+**Property Details:**
+- **Price:** S$ 1,080,000 (Starting from)
+- **Size:** 1,001 sqft | **PSF:** S$ 1,078
+- **TOP:** 2018 | **Beds:** 3 | **Baths:** 2
+- **MRT:** 680 m (8 mins) from EW18 Redhill MRT
 
 **Issues:**
 - Level 10 is noisy - can hear road sounds
@@ -34,11 +46,23 @@
 ### 3. Kim Tian Road - 127A
 **Status:** Already has a buyer at OTP phase
 
+**Property Details:**
+- **Price:** S$ 1,100,000 (Negotiable)
+- **Size:** 1,001 sqft | **PSF:** S$ 1,099
+- **TOP:** 2013 | **Beds:** 3 | **Baths:** 2
+- **MRT:** 830 m (10 mins) from EW17 Tiong Bahru MRT
+
 ---
 
 ### 4. Kim Tian Road - 126A
 **Status:** NO-GO
 **Viewed:** February 1, 2026
+
+**Property Details:**
+- **Price:** S$ 1,150,000 (Negotiable)
+- **Size:** 1,001 sqft | **PSF:** S$ 1,149
+- **TOP:** Feb 2013 | **Beds:** 3 | **Baths:** 2
+- **MRT:** 680 m (8 mins) from EW17 Tiong Bahru MRT
 
 **Issues:**
 - West-facing living room and bedrooms - **killer for this unit**
@@ -57,11 +81,23 @@
 ### 5. Havelock Road - 53 Havelock
 **Status:** Agent did not reply
 
+**Property Details:**
+- **Price:** S$ 1,120,000 (Negotiable)
+- **Size:** 1,022 sqft | **PSF:** S$ 1,096
+- **TOP:** 2011 | **Beds:** 4 | **Baths:** 2
+- **MRT:** 560 m (7 mins) from EW17 Tiong Bahru MRT
+
 ---
 
 ### 6. Redhill - 75c
 **Status:** NO-GO - Entire block removed from consideration
 **Viewed:** January 31, 2026
+
+**Property Details:**
+- **Price:** S$ 1,088,000
+- **Size:** 1,076 sqft | **PSF:** S$ 1,011
+- **TOP:** 2005 | **Beds:** 3 | **Baths:** 2
+- **MRT:** 130 m (2 mins) from EW18 Redhill MRT
 
 **Issues:**
 - **Noise:** MRT sound is constant drone - unacceptable
@@ -83,6 +119,12 @@
 ### 7. Cantonement Close - 12
 **Status:** Mixed - Has potential but significant issues
 **Viewed:** January 31, 2026
+
+**Property Details:**
+- **Price:** S$ 1,100,000 (Negotiable)
+- **Size:** 969 sqft | **PSF:** S$ 1,135
+- **TOP:** 2000 | **Beds:** 3 | **Baths:** 2
+- **MRT:** 780 m (9 mins) from EW16/NE3/TE17 Outram Park MRT
 
 **Positives:**
 - Very large and long open window with unobstructed views - amazing
