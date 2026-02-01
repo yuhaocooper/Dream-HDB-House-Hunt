@@ -9,6 +9,8 @@
 ### 1. Henderson Road - 95c (Super High Level)
 **Status:** Ethnic quota issue
 
+**Listing:** [PropertyGuru](https://www.propertyguru.com.sg/listing/hdb-for-sale-95c-henderson-road-500014832)
+
 **Property Details:**
 - **Price:** S$ 1,290,000 (Negotiable)
 - **Size:** 1,001 sqft | **PSF:** S$ 1,289
@@ -23,6 +25,8 @@
 ### 2. Henderson Road - Second 95 Unit (Level 10)
 **Status:** NO-GO
 **Viewed:** February 1, 2026
+
+**Listing:** [PropertyGuru](https://www.propertyguru.com.sg/listing/hdb-for-sale-95c-henderson-road-500036433)
 
 **Property Details:**
 - **Price:** S$ 1,080,000 (Starting from)
@@ -46,6 +50,8 @@
 ### 3. Kim Tian Road - 127A
 **Status:** Already has a buyer at OTP phase
 
+**Listing:** [PropertyGuru](https://www.propertyguru.com.sg/listing/hdb-for-sale-127a-kim-tian-road-500035151)
+
 **Property Details:**
 - **Price:** S$ 1,100,000 (Negotiable)
 - **Size:** 1,001 sqft | **PSF:** S$ 1,099
@@ -57,6 +63,8 @@
 ### 4. Kim Tian Road - 126A
 **Status:** NO-GO
 **Viewed:** February 1, 2026
+
+**Listing:** [PropertyGuru](https://www.propertyguru.com.sg/listing/hdb-for-sale-126a-kim-tian-road-500014275)
 
 **Property Details:**
 - **Price:** S$ 1,150,000 (Negotiable)
@@ -81,6 +89,8 @@
 ### 5. Havelock Road - 53 Havelock
 **Status:** Agent did not reply
 
+**Listing:** [PropertyGuru](https://www.propertyguru.com.sg/listing/hdb-for-sale-53-havelock-road-60217970)
+
 **Property Details:**
 - **Price:** S$ 1,120,000 (Negotiable)
 - **Size:** 1,022 sqft | **PSF:** S$ 1,096
@@ -92,6 +102,8 @@
 ### 6. Redhill - 75c
 **Status:** NO-GO - Entire block removed from consideration
 **Viewed:** January 31, 2026
+
+**Listing:** [PropertyGuru](https://www.propertyguru.com.sg/listing/hdb-for-sale-75c-redhill-road-25489289)
 
 **Property Details:**
 - **Price:** S$ 1,088,000
@@ -119,6 +131,8 @@
 ### 7. Cantonement Close - 12
 **Status:** Mixed - Has potential but significant issues
 **Viewed:** January 31, 2026
+
+**Listing:** [PropertyGuru](https://www.propertyguru.com.sg/listing/hdb-for-sale-12-cantonment-close-500035333)
 
 **Property Details:**
 - **Price:** S$ 1,100,000 (Negotiable)
