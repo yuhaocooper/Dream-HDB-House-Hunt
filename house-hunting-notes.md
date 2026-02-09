@@ -1,10 +1,50 @@
-# HDB House Hunting Notes - Tiong Bahru Area
+# HDB House Hunting Notes
 
-## Viewing Dates: January 31 & February 1, 2026
+## Overview
+
+Multiple weekends of viewings across various areas in Singapore to find the perfect HDB flat.
+
+**Status:** Top choice identified - Waiting for SBF ballot results (May 2026)
 
 ---
 
-## Properties Viewed
+## 2026 House Hunting Plan
+
+1. **Wait for SBF results** (by May 2026) for Bishan Ridges - potential top 3-5 units worth the wait
+2. If unsuccessful, **target Telok Blangah 93B** sea-facing units, level 20+
+3. HFE doesn't need refresh until OTP time (to confirm with agents)
+4. **Budget:** 1-1.1 Mil for Telok Blangah
+
+---
+
+## Top Choice for Resale
+
+**Telok Blangah 93B** - Sea-facing units, Level 20+
+- Best area/location overall
+- Average unit size and layout acceptable (not dealbreakers)
+- Budget of 1-1.1 Mil works perfectly
+- View of sea, Sentosa, windy, spacious, clean, decent amenities
+- Prioritizing this specific block and orientation if SBF doesn't work out
+
+---
+
+## Area Tier Rankings
+
+1. **Telok Blangah**
+2. **Kallang / Strathmore** (tied)
+3. **Cantonement** (Yuhao preference)
+4. **Henderson**
+5. **Kim Tian**
+6. **Redhill**
+7. **Boon Keng**
+
+---
+
+## 1st Weekend Viewings - Tiong Bahru Area
+
+**Dates:** January 31 & February 1, 2026
+
+### Properties Viewed
 
 ### 1. Henderson Road - 95c (Super High Level)
 **Status:** Ethnic quota issue
@@ -156,6 +196,174 @@
 
 ---
 
+## 2nd Weekend Viewings - Expanded Search
+
+**Areas Covered:** Telok Blangah, Strathmore, Boon Keng, Kallang
+
+### Properties Viewed
+
+#### Telok Blangah Area
+
+##### 8. 93B Telok Blangah Street 31 - Level 27 ⭐ TOP CHOICE
+**Status:** OUR TOP PICK
+
+**Listing:** [PropertyGuru](https://www.propertyguru.com.sg/listing/hdb-for-sale-93b-telok-blangah-street-31-60175213)
+
+**Positives:**
+- **Amazing sea view** - can see Sentosa and water
+- **Area is excellent** - windy, spacious, new, clean, decent amenities and convenience
+- **93B is the best block** in the area - others further from MRT or worse views
+- **Good pricing** at 1.0 Mil
+- **Living room size is great** - knocking down kitchen walls is the way to go
+- **Minimal west sun** - not a problem here
+- **Refuse chute in middle of corridor** instead of between units (unlike 93A)
+- Very quiet
+
+**Issues:**
+- Master room a little small compared to dream size
+- This specific unit in poor condition - mold on toilet controls
+- Windows are the usual small windows
+
+**Overall:**
+- **Combined favourite for view and area**
+- **Want this specific block, sea-facing view, level 20+**
+- Will wait for SBF ballot first (worth the 2-month wait)
+- If SBF unsuccessful, this is THE target
+
+---
+
+##### 9. 80A Telok Blangah Street 31 - Level 29
+**Status:** Good alternative option
+
+**Listing:** [PropertyGuru](https://www.propertyguru.com.sg/listing/hdb-for-sale-80a-telok-blangah-street-31-60154743)
+
+**Positives:**
+- Very quiet view to back of Telok Blangah area
+- **Excellent windows** - full length in living and master bedroom side (level 28/29+ only)
+- Nearer to MRT than 90s blocks
+- Very windy
+- Area is nice (same as Telok Blangah)
+- **Better floor layout** - only 4 units per level in point block layout
+- Default parquet flooring
+
+**Issues:**
+- View decent but not as nice as sea-facing
+- **100k more expensive** than 93A/B blocks despite being older
+
+**Overall:**
+- Very nice, particular unit is clean
+- Decent block
+- Can't get sea-facing units here - way too noisy
+
+---
+
+#### Strathmore Area
+
+##### 10. 61A Strathmore - Level 14
+##### 11. 61B Strathmore - Level 24
+##### 12. 61C Strathmore - Level 26
+
+**Status:** VETOED (bay window ledges)
+
+**Positives:**
+- Slightly bigger 4-room units at 98sqm
+- Newer blocks
+- Near to PCN
+- Windows are big and wide
+
+**Issues:**
+- **Bay window ledges** - VETO TRIGGER (takes up space, provides no value)
+- Master room layout is small
+- 61B and 61C views face opposite blocks, feels very squeezed
+- Not too convenient
+
+**Overall:**
+- **Vetoed due to window ledges**
+- 61A is the nicest, but would need level 20+ to reconsider
+
+---
+
+##### 13. 83 Strathmore Avenue - Level 18
+**Status:** VETOED - Construction hell for 4 years
+
+**Positives:**
+- **Perfect layout and size** - huge living room, open kitchen makes it wider, big master room
+- Nice view towards condos and open space
+- Very quiet
+- Right next to rail corridor PCN
+- High enough at level 18
+- Super near to MRT
+
+**Issues:**
+- **DEAL KILLER:** Penrith condo construction next door for 4 years
+- **Above budget** at 1.2 Mil
+- No direct MCSP at block
+- Babe finds building old
+
+**Overall:**
+- Would be perfect except for Penrith condo construction
+- **VETOED for current search** - not doing 4 years of construction hell
+- May reconsider in 8 years after construction is done
+
+---
+
+#### Boon Keng Area
+
+##### 14. 108C McNair Road
+**Status:** Lower tier consideration
+
+**Positives:**
+- **Excellent layout and size** - huge living room with large foyer, huge master bedroom with walk-in wardrobe
+- **1200sqft 5-room is really the perfect size**
+- Decently quiet (not the quietest)
+
+**Issues:**
+- Low level
+- **Boon Keng area is problematic** - neither here nor there, not quiet, not modern, crowded, messy
+
+**Overall:**
+- 5-room size is confirmed as perfect
+- Block can be considered but lower on tier list
+- **Need higher floor unit** to seriously consider this block
+
+---
+
+##### 15. 38C Bendemeer Road
+**Status:** NO-GO - Entire block vetoed
+
+**Positives:**
+- Nothing much
+
+**Issues:**
+- At limit of walking distance to MRT
+- Bay window ledge and small master room
+- Part of Boon Keng area (bottom tier)
+
+**Overall:**
+- **VETO this entire block for future consideration**
+- This is not it
+
+---
+
+#### Kallang Area
+
+##### 16. 2D Upper Boon Keng Road
+**Status:** Decent option to keep in consideration
+
+**Positives:**
+- Quiet
+- **Excellent convenience** - nearest to MRT, near to stadium
+- Good layout - opening up kitchen (relocating kitchen door) can make living room more open
+
+**Issues:**
+- View feels way too dead - unsure about living with that level of deadness and quiet
+
+**Overall:**
+- Decent unit and area
+- Keep in consideration as area and block
+
+---
+
 ## Key Learnings & Priorities
 
 ### Yuhao's Priorities
@@ -177,6 +385,15 @@
 3. **Openness** - Must not feel cramped
 
 **Decision Rule:** If a place excels in these core areas, it outweighs other factors as long as they remain acceptable.
+
+### New Learnings from 2nd Weekend
+
+1. **Bay window ledges are a deal-breaker** - Takes up space with no value
+2. **5-room size (1200sqft) is the perfect size** - Confirmed with 108C McNair viewing
+3. **Kitchen door relocation** - Can help open up living room space
+4. **Area/location can outweigh layout** - As long as size/layout remain acceptable (not dealbreakers)
+5. **Full-length windows make a huge difference** - 80A Telok Blangah level 28/29+ example
+6. **Sea views are a game-changer** - Worth prioritizing when available
 
 ---
 
@@ -245,35 +462,54 @@
 | Block/Area | Reason |
 |------------|--------|
 | Redhill 75c (entire block) | MRT noise, darkness, cramped layout, west sun |
+| 38C Bendemeer Road (entire block) | Poor Boon Keng area, bay window ledge, distance to MRT, small master room |
+| 83 Strathmore Avenue | Penrith condo construction for 4 years, above budget (1.2 Mil) |
+| Strathmore 61B/61C | Bay window ledges (deal-breaker), views face opposite blocks |
 
 ---
 
 ## Areas Still Under Consideration
 
-| Area | Notes |
-|------|-------|
-| Kim Tian Road | Good area, but need **east-facing** units |
-| Cantonement Close | Has potential if right unit found |
-| Henderson Road | Low density, but need level 15+ with wide windows |
+| Area | Tier | Notes |
+|------|------|-------|
+| **Telok Blangah** | 1 | **TOP PRIORITY** - 93B sea-facing, level 20+. 80A also good alternative |
+| Kallang | 2 | 2D Upper Boon Keng - decent option, excellent convenience |
+| Strathmore | 2 | 61A acceptable if level 20+, but bay window ledges are problematic |
+| Cantonement | 3 | Has potential if right unit found |
+| Henderson | 4 | Low density, need level 15+ with wide windows |
+| Kim Tian | 5 | Good area, need **east-facing** units |
+| Boon Keng | 7 | 108C McNair acceptable if high floor, but area is bottom tier |
 
 ---
 
 ## Next Steps
 
-1. Confirm 4A rejection with viewings at Boon Keng, Telok Blangah, Strathmore
-2. Focus on older 4-room designs or 5-room units
-3. Only view units level 15+
-4. Only view units with wide windows
-5. Prioritize east-facing units
-6. Kim Tian area still viable - need east-facing units
+### Immediate (Now - May 2026)
+1. **Wait for SBF ballot results** (by May 2026) for Bishan Ridges
+2. Confirmed good to stay at Bishan Ridges for 5+ years if get top 3-5 units
+3. No need to refresh HFE - only needed at OTP time (confirm with agents)
+
+### If SBF Unsuccessful (Post-May 2026)
+1. **Target Telok Blangah 93B** sea-facing units, level 20+
+2. Budget: 1-1.1 Mil
+3. Look for units where kitchen walls can be knocked down for open living
+4. Prioritize sea-facing orientation in this specific block
+
+### General Search Criteria (If Continuing)
+1. Continue focusing on older 4-room designs or 5-room units (1200sqft ideal)
+2. Only view units level 15+ (preferably 20+)
+3. Only view units with wide windows (avoid bay window ledges)
+4. Avoid blocks with ongoing/planned nearby construction
+5. Prioritize quiet areas with good views
 
 ---
 
 ## Open Questions
 
-1. Are older larger flats worth it over newer 4A models given the space difference?
-2. Should we prioritize location (Tiong Bahru area) or layout (5-room in less central area)?
+1. ~~Are older larger flats worth it over newer 4A models given the space difference?~~ **ANSWERED:** Yes, older 4-room or 5-room preferred. New 4A layout rejected.
+2. ~~Should we prioritize location (Tiong Bahru area) or layout (5-room in less central area)?~~ **ANSWERED:** Location/area can outweigh layout if layout remains acceptable.
+3. Will need to confirm with agents about HFE refresh timing (only needed at OTP?)
 
 ---
 
-*Last Updated: February 1, 2026*
+*Last Updated: February 9, 2026*
