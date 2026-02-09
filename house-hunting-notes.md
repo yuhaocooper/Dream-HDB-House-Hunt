@@ -300,7 +300,7 @@ Multiple weekends of viewings across various areas in Singapore to find the perf
 ##### 13. 83 Strathmore Avenue - Level 18
 **Status:** VETOED - Construction hell for 4 years
 
-**Listing:** (Link not recorded during viewing)
+**Listing:** [PropertyGuru](https://www.propertyguru.com.sg/listing/hdb-for-sale-83-strathmore-avenue-60147617)
 
 **Property Details:**
 - **Price:** S$ 1,200,000 (above budget)
@@ -331,7 +331,7 @@ Multiple weekends of viewings across various areas in Singapore to find the perf
 ##### 14. 108C McNair Road
 **Status:** Lower tier consideration
 
-**Listing:** (Link not recorded during viewing)
+**Listing:** [PropertyGuru](https://www.propertyguru.com.sg/listing/hdb-for-sale-108c-mcnair-road-25292632)
 
 **Property Details:**
 - **Type:** 5-room
@@ -356,7 +356,7 @@ Multiple weekends of viewings across various areas in Singapore to find the perf
 ##### 15. 38C Bendemeer Road
 **Status:** NO-GO - Entire block vetoed
 
-**Listing:** (Link not recorded during viewing)
+**Listing:** [PropertyGuru](https://www.propertyguru.com.sg/listing/hdb-for-sale-38c-bendemeer-road-60184771)
 
 **Positives:**
 - Nothing much
