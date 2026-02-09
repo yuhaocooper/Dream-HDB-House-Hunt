@@ -209,6 +209,10 @@ Multiple weekends of viewings across various areas in Singapore to find the perf
 
 **Listing:** [PropertyGuru](https://www.propertyguru.com.sg/listing/hdb-for-sale-93b-telok-blangah-street-31-60175213)
 
+**Property Details:**
+- **Price:** S$ 1,000,000
+- **Type:** 4-room New Standard 4A layout
+
 **Positives:**
 - **Amazing sea view** - can see Sentosa and water
 - **Area is excellent** - windy, spacious, new, clean, decent amenities and convenience
@@ -236,6 +240,10 @@ Multiple weekends of viewings across various areas in Singapore to find the perf
 **Status:** Good alternative option
 
 **Listing:** [PropertyGuru](https://www.propertyguru.com.sg/listing/hdb-for-sale-80a-telok-blangah-street-31-60154743)
+
+**Property Details:**
+- **Price:** ~S$ 1,100,000 (100k more than 93A/B blocks)
+- **Type:** Older 4-room, Point block layout (4 units per level)
 
 **Positives:**
 - Very quiet view to back of Telok Blangah area
@@ -265,6 +273,12 @@ Multiple weekends of viewings across various areas in Singapore to find the perf
 
 **Status:** VETOED (bay window ledges)
 
+**Listing:** (Links not recorded during viewing)
+
+**Property Details:**
+- **Type:** 4-room
+- **Size:** 98sqm (slightly bigger than standard)
+
 **Positives:**
 - Slightly bigger 4-room units at 98sqm
 - Newer blocks
@@ -285,6 +299,11 @@ Multiple weekends of viewings across various areas in Singapore to find the perf
 
 ##### 13. 83 Strathmore Avenue - Level 18
 **Status:** VETOED - Construction hell for 4 years
+
+**Listing:** (Link not recorded during viewing)
+
+**Property Details:**
+- **Price:** S$ 1,200,000 (above budget)
 
 **Positives:**
 - **Perfect layout and size** - huge living room, open kitchen makes it wider, big master room
@@ -312,6 +331,12 @@ Multiple weekends of viewings across various areas in Singapore to find the perf
 ##### 14. 108C McNair Road
 **Status:** Lower tier consideration
 
+**Listing:** (Link not recorded during viewing)
+
+**Property Details:**
+- **Type:** 5-room
+- **Size:** 1200sqft
+
 **Positives:**
 - **Excellent layout and size** - huge living room with large foyer, huge master bedroom with walk-in wardrobe
 - **1200sqft 5-room is really the perfect size**
@@ -331,6 +356,8 @@ Multiple weekends of viewings across various areas in Singapore to find the perf
 ##### 15. 38C Bendemeer Road
 **Status:** NO-GO - Entire block vetoed
 
+**Listing:** (Link not recorded during viewing)
+
 **Positives:**
 - Nothing much
 
@@ -349,6 +376,8 @@ Multiple weekends of viewings across various areas in Singapore to find the perf
 
 ##### 16. 2D Upper Boon Keng Road
 **Status:** Decent option to keep in consideration
+
+**Listing:** (Link not recorded during viewing)
 
 **Positives:**
 - Quiet
@@ -402,7 +431,7 @@ Multiple weekends of viewings across various areas in Singapore to find the perf
 ### Question (from Jan 31)
 > Do newer 4A models have adequate living room width, or need to knock out a room?
 
-### Answer (Feb 1 - After Henderson 95 viewing)
+### Initial Answer (Feb 1 - After Henderson 95 viewing)
 
 **The new standard 4A layout is NOT acceptable.**
 
@@ -411,15 +440,22 @@ Multiple weekends of viewings across various areas in Singapore to find the perf
 - Lack of light and windows is a killer
 - 5-room layouts feel better
 
-**Preference Order:**
-1. Older 4-room designs (larger windows)
-2. 5-room in less accessible area
-3. ~~New standard 4A~~ - REJECTED
+### Updated Answer (After 2nd Weekend - Telok Blangah viewings)
 
-**Status:** Leaning strongly towards rejecting all new standard 4A layout units. Will confirm with next week's viewings at:
-- Boon Keng
-- Telok Blangah
-- Strathmore
+**The new standard 4A layout is ACCEPTABLE - not ideal, but not a dealbreaker.**
+
+**Key Realizations:**
+- External factors (location, area, views) and design examples showed the 4A layout can work well
+- With proper design/renovation (knocking down kitchen walls, strategic furniture placement), the space opens up significantly
+- **Telok Blangah 93B** (4A layout) is the clear favorite for BOTH of us despite the layout
+- The superior location, sea views, and area quality outweigh the layout limitations
+
+**Revised Preference Order:**
+1. **Great location with 4A layout** (e.g., Telok Blangah 93B) - NOW ACCEPTABLE
+2. Older 4-room designs (larger windows)
+3. 5-room in less accessible area
+
+**Conclusion:** Layout is important but can be overcome with the right location and external factors. Not a dealbreaker anymore.
 
 ---
 
