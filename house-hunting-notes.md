@@ -210,8 +210,10 @@ Multiple weekends of viewings across various areas in Singapore to find the perf
 **Listing:** [PropertyGuru](https://www.propertyguru.com.sg/listing/hdb-for-sale-93b-telok-blangah-street-31-60175213)
 
 **Property Details:**
-- **Price:** S$ 1,000,000
-- **Type:** 4-room New Standard 4A layout
+- **Price:** S$ 1,030,000 (Starting from)
+- **Size:** 1,001 sqft | **PSF:** S$ 1,029
+- **TOP:** Dec 2018 | **Beds:** 3 | **Baths:** 2
+- **MRT:** 860 m (10 mins) from CC27 Labrador Park MRT
 
 **Positives:**
 - **Amazing sea view** - can see Sentosa and water
@@ -242,8 +244,10 @@ Multiple weekends of viewings across various areas in Singapore to find the perf
 **Listing:** [PropertyGuru](https://www.propertyguru.com.sg/listing/hdb-for-sale-80a-telok-blangah-street-31-60154743)
 
 **Property Details:**
-- **Price:** ~S$ 1,100,000 (100k more than 93A/B blocks)
-- **Type:** Older 4-room, Point block layout (4 units per level)
+- **Price:** S$ 1,150,000 (Negotiable)
+- **Size:** 1,023 sqft | **PSF:** S$ 1,124
+- **TOP:** 2011 | **Beds:** 3 | **Baths:** 2
+- **MRT:** 630 m (8 mins) from CC27 Labrador Park MRT
 
 **Positives:**
 - Very quiet view to back of Telok Blangah area
@@ -267,17 +271,41 @@ Multiple weekends of viewings across various areas in Singapore to find the perf
 
 #### Strathmore Area
 
-##### 10. 61A Strathmore - Level 14
-##### 11. 61B Strathmore - Level 24
-##### 12. 61C Strathmore - Level 26
+##### 10. 61A Strathmore Avenue - Level 14
 
-**Status:** VETOED (bay window ledges)
-
-**Listing:** (Links not recorded during viewing)
+**Listing:** [PropertyGuru](https://www.propertyguru.com.sg/listing/hdb-for-sale-61a-strathmore-avenue-60116426)
 
 **Property Details:**
-- **Type:** 4-room
-- **Size:** 98sqm (slightly bigger than standard)
+- **Price:** S$ 1,028,000
+- **Size:** 1,055 sqft | **PSF:** S$ 974
+- **TOP:** 2010 | **Beds:** 3 | **Baths:** 2
+- **MRT:** 740 m (9 mins) from EW19 Queenstown MRT
+
+---
+
+##### 11. 61B Strathmore Avenue - Level 24
+
+**Listing:** [PropertyGuru](https://www.propertyguru.com.sg/listing/hdb-for-sale-61b-strathmore-avenue-25607359)
+
+**Property Details:**
+- **Price:** S$ 1,130,000
+- **Size:** 1,055 sqft | **PSF:** S$ 1,071
+- **TOP:** 2010 | **Beds:** 3 | **Baths:** 2
+- **MRT:** 730 m (9 mins) from EW19 Queenstown MRT
+
+---
+
+##### 12. 61C Strathmore Avenue - Level 26
+
+**Listing:** [PropertyGuru](https://www.propertyguru.com.sg/listing/hdb-for-sale-61c-strathmore-avenue-500047649)
+
+**Property Details:**
+- **Price:** S$ 998,888 (Starting from)
+- **Size:** 1,001 sqft | **PSF:** S$ 998
+- **TOP:** 2010 | **Beds:** 3 | **Baths:** 2
+- **MRT:** 920 m (11 mins) from EW19 Queenstown MRT
+
+**Status (All 61 blocks):** VETOED (bay window ledges)
 
 **Positives:**
 - Slightly bigger 4-room units at 98sqm
@@ -303,7 +331,10 @@ Multiple weekends of viewings across various areas in Singapore to find the perf
 **Listing:** [PropertyGuru](https://www.propertyguru.com.sg/listing/hdb-for-sale-83-strathmore-avenue-60147617)
 
 **Property Details:**
-- **Price:** S$ 1,200,000 (above budget)
+- **Price:** S$ 1,200,000 (Negotiable)
+- **Size:** 1,098 sqft | **PSF:** S$ 1,093
+- **TOP:** 1995 | **Beds:** 3 | **Baths:** 2
+- **MRT:** 340 m (4 mins) from EW19 Queenstown MRT
 
 **Positives:**
 - **Perfect layout and size** - huge living room, open kitchen makes it wider, big master room
@@ -334,8 +365,10 @@ Multiple weekends of viewings across various areas in Singapore to find the perf
 **Listing:** [PropertyGuru](https://www.propertyguru.com.sg/listing/hdb-for-sale-108c-mcnair-road-25292632)
 
 **Property Details:**
-- **Type:** 5-room
-- **Size:** 1200sqft
+- **Price:** S$ 1,098,888 (Negotiable)
+- **Size:** 1,184 sqft | **PSF:** S$ 928
+- **TOP:** 2003 | **Beds:** 3 | **Baths:** 2
+- **MRT:** 610 m (7 mins) from NE9 Boon Keng MRT
 
 **Positives:**
 - **Excellent layout and size** - huge living room with large foyer, huge master bedroom with walk-in wardrobe
@@ -358,6 +391,12 @@ Multiple weekends of viewings across various areas in Singapore to find the perf
 
 **Listing:** [PropertyGuru](https://www.propertyguru.com.sg/listing/hdb-for-sale-38c-bendemeer-road-60184771)
 
+**Property Details:**
+- **Price:** S$ 948,000
+- **Size:** 958 sqft | **PSF:** S$ 990
+- **TOP:** 2010 | **Beds:** 3 | **Baths:** 2
+- **MRT:** 790 m (9 mins) from DT24 Geylang Bahru MRT / 830 m (10 mins) from NE9 Boon Keng MRT
+
 **Positives:**
 - Nothing much
 
@@ -377,7 +416,13 @@ Multiple weekends of viewings across various areas in Singapore to find the perf
 ##### 16. 2D Upper Boon Keng Road
 **Status:** Decent option to keep in consideration
 
-**Listing:** (Link not recorded during viewing)
+**Listing:** [PropertyGuru](https://www.propertyguru.com.sg/listing/hdb-for-sale-2d-upper-boon-keng-road-500040880)
+
+**Property Details:**
+- **Price:** S$ 999,000
+- **Size:** 969 sqft | **PSF:** S$ 1,031
+- **TOP:** 2006 | **Beds:** 3 | **Baths:** 2
+- **MRT:** 350 m (4 mins) from EW10 Kallang MRT
 
 **Positives:**
 - Quiet
