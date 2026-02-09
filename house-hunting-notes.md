@@ -40,6 +40,36 @@ Multiple weekends of viewings across various areas in Singapore to find the perf
 
 ---
 
+## Next Steps
+
+### Immediate (Now - May 2026)
+1. **Wait for SBF ballot results** (by May 2026) for Bishan Ridges
+2. Confirmed good to stay at Bishan Ridges for 5+ years if get top 3-5 units
+3. No need to refresh HFE - only needed at OTP time (confirm with agents)
+
+### If SBF Unsuccessful (Post-May 2026)
+1. **Target Telok Blangah 93B** sea-facing units, level 20+
+2. Budget: 1-1.1 Mil
+3. Look for units where kitchen walls can be knocked down for open living
+4. Prioritize sea-facing orientation in this specific block
+
+### General Search Criteria (If Continuing)
+1. Continue focusing on older 4-room designs or 5-room units (1200sqft ideal)
+2. Only view units level 15+ (preferably 20+)
+3. Only view units with wide windows (avoid bay window ledges)
+4. Avoid blocks with ongoing/planned nearby construction
+5. Prioritize quiet areas with good views
+
+---
+
+## Open Questions
+
+1. ~~Are older larger flats worth it over newer 4A models given the space difference?~~ **ANSWERED:** Yes, older 4-room or 5-room preferred. New 4A layout rejected.
+2. ~~Should we prioritize location (Tiong Bahru area) or layout (5-room in less central area)?~~ **ANSWERED:** Location/area can outweigh layout if layout remains acceptable.
+3. Will need to confirm with agents about HFE refresh timing (only needed at OTP?)
+
+---
+
 ## 1st Weekend Viewings - Tiong Bahru Area
 
 **Dates:** January 31 & February 1, 2026
@@ -560,36 +590,6 @@ Multiple weekends of viewings across various areas in Singapore to find the perf
 | Henderson | 4 | Low density, need level 15+ with wide windows |
 | Kim Tian | 5 | Good area, need **east-facing** units |
 | Boon Keng | 7 | 108C McNair acceptable if high floor, but area is bottom tier |
-
----
-
-## Next Steps
-
-### Immediate (Now - May 2026)
-1. **Wait for SBF ballot results** (by May 2026) for Bishan Ridges
-2. Confirmed good to stay at Bishan Ridges for 5+ years if get top 3-5 units
-3. No need to refresh HFE - only needed at OTP time (confirm with agents)
-
-### If SBF Unsuccessful (Post-May 2026)
-1. **Target Telok Blangah 93B** sea-facing units, level 20+
-2. Budget: 1-1.1 Mil
-3. Look for units where kitchen walls can be knocked down for open living
-4. Prioritize sea-facing orientation in this specific block
-
-### General Search Criteria (If Continuing)
-1. Continue focusing on older 4-room designs or 5-room units (1200sqft ideal)
-2. Only view units level 15+ (preferably 20+)
-3. Only view units with wide windows (avoid bay window ledges)
-4. Avoid blocks with ongoing/planned nearby construction
-5. Prioritize quiet areas with good views
-
----
-
-## Open Questions
-
-1. ~~Are older larger flats worth it over newer 4A models given the space difference?~~ **ANSWERED:** Yes, older 4-room or 5-room preferred. New 4A layout rejected.
-2. ~~Should we prioritize location (Tiong Bahru area) or layout (5-room in less central area)?~~ **ANSWERED:** Location/area can outweigh layout if layout remains acceptable.
-3. Will need to confirm with agents about HFE refresh timing (only needed at OTP?)
 
 ---
 
